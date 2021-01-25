@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0f6a329-8e2c-4439-9f25-7b120c64cb26" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/default.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/next/static/chunks/pages/_app-6f9740f4eecab6148f9b.js" beforeDir="false" afterPath="$PROJECT_DIR$/next/static/chunks/_app-6f9740f4eecab6148f9b.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/next/static/chunks/pages/index-f45460d4590f0bed9f0a.js" beforeDir="false" afterPath="$PROJECT_DIR$/next/static/chunks/index-f45460d4590f0bed9f0a.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/next/static/m8YArgZs4CHr8Cx1xQ-7W/_buildManifest.js" beforeDir="false" afterPath="$PROJECT_DIR$/next/static/chunks/_buildManifest.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/next/static/m8YArgZs4CHr8Cx1xQ-7W/_ssgManifest.js" beforeDir="false" afterPath="$PROJECT_DIR$/next/static/chunks/_ssgManifest.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +34,11 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/next/static/chunks" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -39,7 +47,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1611580237525</updated>
-      <workItem from="1611580238745" duration="2934000" />
+      <workItem from="1611580238745" duration="3188000" />
     </task>
     <task id="LOCAL-00001" summary="init jekyll">
       <created>1611582077812</created>
@@ -69,7 +77,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611583714246</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="init jekyll">
+      <created>1611584106590</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1611584106590</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -4,31 +4,6 @@
     <list default="true" id="e0f6a329-8e2c-4439-9f25-7b120c64cb26" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/default.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_next/static/chunks/commons.9528123feb626448eb3f.js" beforeDir="false" afterPath="$PROJECT_DIR$/next/static/chunks/commons.9528123feb626448eb3f.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_next/static/chunks/framework.a6402fb70cc88f6f61b0.js" beforeDir="false" afterPath="$PROJECT_DIR$/next/static/chunks/framework.a6402fb70cc88f6f61b0.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_next/static/chunks/main-5847d4d4023496c4793b.js" beforeDir="false" afterPath="$PROJECT_DIR$/next/static/chunks/main-5847d4d4023496c4793b.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_next/static/chunks/main-5847d4d4023496c4793b.js.1" beforeDir="false" afterPath="$PROJECT_DIR$/next/static/chunks/main-5847d4d4023496c4793b.js.1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_next/static/chunks/pages/_app-6f9740f4eecab6148f9b.js" beforeDir="false" afterPath="$PROJECT_DIR$/next/static/chunks/pages/_app-6f9740f4eecab6148f9b.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_next/static/chunks/pages/index-f45460d4590f0bed9f0a.js" beforeDir="false" afterPath="$PROJECT_DIR$/next/static/chunks/pages/index-f45460d4590f0bed9f0a.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_next/static/chunks/polyfills-4acaa4b69e5977b3ab87.js" beforeDir="false" afterPath="$PROJECT_DIR$/next/static/chunks/polyfills-4acaa4b69e5977b3ab87.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_next/static/chunks/webpack-50bee04d1dc61f8adf5b.js" beforeDir="false" afterPath="$PROJECT_DIR$/next/static/chunks/webpack-50bee04d1dc61f8adf5b.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_next/static/images/BO_privacy_policy.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/next/static/images/BO_privacy_policy.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_next/static/images/brand-oriented-logotype-inverted.svg" beforeDir="false" afterPath="$PROJECT_DIR$/next/static/images/brand-oriented-logotype-inverted.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_next/static/images/brand-oriented-logotype.svg" beforeDir="false" afterPath="$PROJECT_DIR$/next/static/images/brand-oriented-logotype.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_next/static/images/clients-kfc.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/next/static/images/clients-kfc.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_next/static/images/clients-philips.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/next/static/images/clients-philips.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_next/static/images/clients-pizzahut.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/next/static/images/clients-pizzahut.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_next/static/images/clients-starbucks.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/next/static/images/clients-starbucks.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_next/static/images/clients-subaru.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/next/static/images/clients-subaru.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_next/static/images/clients-vectra.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/next/static/images/clients-vectra.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_next/static/images/clients-zabka.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/next/static/images/clients-zabka.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_next/static/images/main-banner-arrow.png" beforeDir="false" afterPath="$PROJECT_DIR$/next/static/images/main-banner-arrow.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_next/static/images/technology-banner-bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/next/static/images/technology-banner-bg.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_next/static/images/testimonials-bychawska-joanna.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/next/static/images/testimonials-bychawska-joanna.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_next/static/images/testimonials-kobiela-karolina.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/next/static/images/testimonials-kobiela-karolina.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_next/static/images/testimonials-pek-grzegorz.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/next/static/images/testimonials-pek-grzegorz.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_next/static/m8YArgZs4CHr8Cx1xQ-7W/_buildManifest.js" beforeDir="false" afterPath="$PROJECT_DIR$/next/static/m8YArgZs4CHr8Cx1xQ-7W/_buildManifest.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_next/static/m8YArgZs4CHr8Cx1xQ-7W/_ssgManifest.js" beforeDir="false" afterPath="$PROJECT_DIR$/next/static/m8YArgZs4CHr8Cx1xQ-7W/_ssgManifest.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +39,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1611580237525</updated>
-      <workItem from="1611580238745" duration="2540000" />
+      <workItem from="1611580238745" duration="2934000" />
     </task>
     <task id="LOCAL-00001" summary="init jekyll">
       <created>1611582077812</created>
@@ -87,7 +62,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611583605140</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="init jekyll">
+      <created>1611583714246</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1611583714246</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

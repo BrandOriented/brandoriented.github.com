@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e0f6a329-8e2c-4439-9f25-7b120c64cb26" name="Default Changelist" comment="" />
+    <list default="true" id="e0f6a329-8e2c-4439-9f25-7b120c64cb26" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/_next/static/chunks/main-5847d4d4023496c4793b.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/default.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,7 +14,11 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1nYwGjiek03mlFy1QarJKlArpK1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -32,11 +40,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1611580237525</updated>
-      <workItem from="1611580238745" duration="822000" />
+      <workItem from="1611580238745" duration="2149000" />
     </task>
+    <task id="LOCAL-00001" summary="init jekyll">
+      <created>1611582077812</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1611582077813</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init jekyll" />
+    <option name="LAST_COMMIT_MESSAGE" value="init jekyll" />
   </component>
 </project>

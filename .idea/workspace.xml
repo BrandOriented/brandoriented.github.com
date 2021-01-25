@@ -44,7 +44,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1611580237525</updated>
-      <workItem from="1611580238745" duration="4977000" />
+      <workItem from="1611580238745" duration="5149000" />
     </task>
     <task id="LOCAL-00001" summary="init jekyll">
       <created>1611582077812</created>
@@ -130,7 +130,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611592010866</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="init jekyll">
+      <created>1611592092149</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1611592092149</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

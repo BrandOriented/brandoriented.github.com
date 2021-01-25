@@ -2,8 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0f6a329-8e2c-4439-9f25-7b120c64cb26" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/_includes/meta.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_layouts/page.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/default.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/_normalize.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/_solo.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/_syntax.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.scss" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +52,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1611580237525</updated>
-      <workItem from="1611580238745" duration="5149000" />
+      <workItem from="1611580238745" duration="5577000" />
     </task>
     <task id="LOCAL-00001" summary="init jekyll">
       <created>1611582077812</created>
@@ -137,7 +145,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611592092149</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="init jekyll">
+      <created>1611592262427</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1611592262427</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

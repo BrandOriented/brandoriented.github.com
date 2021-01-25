@@ -1,6 +1,7 @@
 # Site settings
-title: Jekyll One
-description: Jekyll One is a Jekyll theme for single-page websites only.
+title: BrandOriented.pl
+keywords: "Marketing, Marketing Automation, Marketing Process Automation, Marketing Process Management, Marketing Management System, Marketing Operations, Software Development, IT Applications, social media, online marketing, Analytics, Agile marketing, Lean Processes, Productivity booster, Operational excellence, Robotic Process Automation, digital transformation, digitalisation, and Consulting"
+description: "We increase sales, profitability and goodwill through the digital transformation of marketing. We are a consulting and technology company. We provide system solutions that automate processes, integrate data and support decisions. We provide end-2-end service: from analysis, through tool and consulting, to responsibility for the result in the success-fee model. Our mission is to support the digital transformation of companies so that they use the energy and talents of their people even more fully, achieve their goals more effectively and multiply their impact.  We work with the best. We have experience based on over 30 projects in 13 countries, in various industries.  Check how we work and explore our case studies."
 
 # Build settings
 markdown: kramdown
@@ -9,6 +10,6 @@ sass:
   style: compressed
 defaults:
   - scope:
-      path: "_next"
+      path: "next"
     values:
       image: true
